@@ -1,10 +1,14 @@
 # Pamulang Horde - Indonesia Hardcore Server
 
-Selamat datang di server official pages pamulang horde. Disini kalian bisa download dependensi mods dan segala hal terkait pamulang horde.
+Welcome to **Pamulang Horde** official github!! A dedicated server for indonesian speakers, other may still could join this server.
 
-## Mod Terkait
+Try to survive by collaborating with others and experience the best of gaming.
 
-Untuk mendownload mod di release terbaru kami, disini:
+## Dependencies
+
+### Mods Installation
+
+Download latest mods in here:
 
 ## Changelog
 
