@@ -12,10 +12,10 @@ Download latest mods in here:
 
 ## Changelog
 
-Berikut adalah change log perubahan terkait Mods.
+Release change logs
 
 ### Versi 1.0.0
 
-Melakukan inisialisasi repository.
+Repository initialization.
 
 ---
