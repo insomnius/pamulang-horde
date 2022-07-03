@@ -8,7 +8,9 @@ Try to survive by collaborating with others and experience the best of gaming.
 
 ### Mods Installation
 
-Download latest mods in here:
+Download latest mods in [**HERE**](https://github.com/insomnius/pamulang-horde/releases/download/v1.0.0/Mods.zip).
+
+Unpack the mod, follow [**THIS TUTORIAL**](https://7daystodiemods.com/how-to-install-7-days-to-die-mods/).
 
 ## Changelog
 
