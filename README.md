@@ -11,3 +11,8 @@ Try to survive by collaborating with others and experience the best of gaming.
 Download latest mods in [**HERE**](https://github.com/insomnius/pamulang-horde/releases/download/v1.2.0/Mods.zip). Or see our latest release [**HERE**](https://github.com/insomnius/pamulang-horde/releases/latest).
 
 Unpack the mod, follow [**THIS TUTORIAL**](https://7daystodiemods.com/how-to-install-7-days-to-die-mods/).
+
+
+## Join Our Discord
+
+[Pamulang Horde Discord](https://discord.gg/3Nrwxfzf).
