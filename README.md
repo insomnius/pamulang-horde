@@ -10,6 +10,8 @@ Try to survive by collaborating with others and experience the best of gaming.
 
 You need to download all of this mod first before you can join to the servers.
 
+#### v1.5.0 Mods
+
 1. [(A19) CreaturePacks - Animals](https://www.nexusmods.com/7daystodie/mods/1062) - Adding more animal to our servers, let's hunt!
 2. [(A19) CreaturePacks -Zombies](https://www.nexusmods.com/7daystodie/mods/716) - Adding more zombies to our servers
 3. [AGF - A20 Cosmetic System](https://www.nexusmods.com/7daystodie/mods/2127)
@@ -26,6 +28,8 @@ You need to download all of this mod first before you can join to the servers.
 14. [Map Icon Color](https://www.nexusmods.com/7daystodie/mods/2307)
 15. [HD Katanas](https://7daystodiemods.com/hd-katanas/)
 16. [Weapons of Some Destruction A20](https://www.nexusmods.com/7daystodie/mods/1964)
+
+#### Previous Mods
 
 
 ## Join Our Discord
