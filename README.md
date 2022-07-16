@@ -31,6 +31,8 @@ You need to download all of this mod first before you can join to the servers.
 
 #### Previous Mods
 
+All mods before v1.5.0 can be downloaded here: [HERE](https://github.com/insomnius/pamulang-horde/releases/download/v1.2.0/Mods.zip)
+
 
 ## Join Our Discord
 
