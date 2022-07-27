@@ -6,6 +6,8 @@ For new comer, you have to download this zip and extract here in your 7 days to 
 
 For season 1 veteran, you only need to download this mods: [HERE](https://drive.google.com/file/d/1riKS61aokramPC2fYY3AT4c3rDsPoYI5/view?usp=sharing)
 
+CHANGELOG
+
 ## Join Our Discord
 
 [Pamulang Horde Discord](s.id/pamulanghordediscord).
