@@ -4,7 +4,7 @@ Welcome to **Pamulang Horde** official github. Pamulang Horde is an Indonesia co
 
 For new comer, you have to download this zip and extract here in your 7 days to die mod directory: [HERE](https://drive.google.com/file/d/1qEeiACcWuY2VeyTa9AdKFRzQrmO6HGd7/view?usp=sharing)
 
-For season 1 veteran, you only need to download this mods: [HERE](https://drive.google.com/file/d/1riKS61aokramPC2fYY3AT4c3rDsPoYI5/view?usp=sharing)
+For season 1 veteran, you only need to download this mods: [HERE](https://drive.google.com/file/d/1npyhRo2pQMGWMTgWDKRpjSm2n-c-bZ5H/view?usp=sharing)
 
 [CHANGELOG](https://github.com/insomnius/pamulang-horde/blob/master/CHANGELOG.md)
 

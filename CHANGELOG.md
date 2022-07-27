@@ -1,4 +1,7 @@
-# v2.0.0 (Latest)
+# v2.0.1 (Latest)
+
+Some core changes, regarding protect the first spawn area to be a trader area.
+# v2.0.0
 
 We have few changes regarding version 2.0.0:
 
